@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/rokid-demo.iml" filepath="$PROJECT_DIR$/.idea/rokid-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/skill-demo/skill-demo.iml" filepath="$PROJECT_DIR$/skill-demo/skill-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rokid-skill-kit4j/skill-kit4j.iml" filepath="$PROJECT_DIR$/rokid-skill-kit4j/skill-kit4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rokid-skill-protocol/skill-protocol.iml" filepath="$PROJECT_DIR$/rokid-skill-protocol/skill-protocol.iml" />
+    </modules>
+  </component>
+</project>
